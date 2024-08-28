@@ -1,13 +1,13 @@
 ## Issue ticket number and link(optional) 🔔
 
 
-## Describe your changes (less than 50 characters)🔔
+## Describe your changes (less than 50 characters) 🔔
 
 
 
 
 
-## Checklist before requesting a review 🔔
+## Checklist 🔔
 - [ ] New feature (adds functionality) 🧩
 - [ ] Changes (update, delete feature) ⭐
 - [ ] Fix (fix a bug in button component or similar) ⚡
@@ -29,7 +29,7 @@
 - [ ] I don't know      🧐
 
 
-## Describe if you need to report a bug (less than 50 characters)🔔
+## Describe if you need to report a bug (less than 50 characters) 🔔
 
 
 
