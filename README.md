@@ -13,8 +13,11 @@
 - [ ] Fix (fix a bug in button component or similar) ⚡
 - [ ] Perf (make changes in terms of better performance)🚀
 - [ ] Hot fix (change an array in main) 🔥
-- [ ] style (fix indentation in styles file) 🎨
+- [ ] Style (fix indentation in styles file) 🎨
 - [ ] Refactor (make changes in terms of code) 🧶
+- [ ] Testing (add or update unit/test) 🧪
+- [ ] DevOps (add or update ci/cd pipeline) 🧰
+- [ ] Security (add or update security actions) 🐱‍👤
 - [ ] Merge (environment integrations example merge main with developer) 🎭
 - [ ] Docs (update installation guide)📚
 - [ ] Chore (update .gitignore, package.json, delete commented, linters or similar)📜
