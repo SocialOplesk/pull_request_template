@@ -11,7 +11,7 @@
 - [ ] New feature (adds functionality) 🧩
 - [ ] Changes (update, delete feature) ⭐
 - [ ] Fix (fix a bug in button component or similar) ⚡
-- [ ] Perf (make changes in terms of better performance)🚀
+- [ ] Perf (make changes in terms of better performance) 🚀
 - [ ] Hot fix (change an array in main) 🔥
 - [ ] Style (fix indentation in styles file) 🎨
 - [ ] Refactor (make changes in terms of code) 🧶
@@ -19,7 +19,7 @@
 - [ ] DevOps (add or update ci/cd pipeline) 🧰
 - [ ] Security (add or update security actions) 🐱‍👤
 - [ ] Merge (environment integrations example merge main with developer) 🎭
-- [ ] Docs (update installation guide)📚
+- [ ] Docs (update installation guide) 📚
 - [ ] Chore (update .gitignore, package.json, delete commented, linters or similar)📜
 
 
