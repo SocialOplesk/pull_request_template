@@ -40,7 +40,7 @@
 - [ ] No  ❌
 
 
-## The task needs to be tested before being integrated into the developer branch 🔔
+## The task should be tested before being integrated into a branch. 🔔
 - [ ] Yes ✅
 - [ ] No  ❌
 
