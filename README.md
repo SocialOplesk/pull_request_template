@@ -23,7 +23,7 @@
 - [ ] Chore (update .gitignore, package.json, delete commented, linters or similar)📜
 
 
-## Is the task stable? 🔔
+## Is the task stable? (if appropriate) 🔔
 - [ ] Yes, it is stable ✅
 - [ ] It is not stable  ❌
 - [ ] I don't know      🧐
